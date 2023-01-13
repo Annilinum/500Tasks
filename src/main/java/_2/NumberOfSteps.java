@@ -38,7 +38,6 @@ package _2;
     0 <= num <= 106
 
  */
-
 public class NumberOfSteps {
   public static void main(String[] args) {
     System.out.println(new NumberOfSteps().numberOfSteps(14));
